@@ -2,7 +2,7 @@
 """
 extract.py — Extract a binary file or any file from any compressed archive.
 Supports: .tar, .tar.gz, .tgz, .tar.bz2, .tar.xz, .zip, .gz, .bz2, .xz
-Suppport contact: Gururaj Rao <grao1@visteon.com>
+Suppport contact: Gururaj Rao <raogrr.cloud@gmail.com>
 
 # Usage
 #python3 extract.py openssl-1.0.1t.tar.gz -l
