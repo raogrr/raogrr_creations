@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Binary File Comparator - CLI Tool
-Support Contact: Gururaj Rao <grao1@visteon.com>
+Support Contact: Gururaj Rao <raogrr.cloud@gmail.com>
 
 Usage: python binary_compare.py [OPTIONS] <file1> <file2>
 
